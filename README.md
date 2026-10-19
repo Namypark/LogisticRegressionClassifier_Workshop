@@ -61,4 +61,4 @@ Run all cells from top to bottom (*Run All*). Every check should print ✅.
 
 ## Author
 
-Your name
+Nnamdi Ikengah
