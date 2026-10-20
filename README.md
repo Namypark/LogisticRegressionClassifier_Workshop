@@ -2,7 +2,7 @@
 
 My solution to the in-class activity for the **Statistical Classification and Logistic Regression** workshop.
 
-In [`My_LogLoss_Activity.ipynb`](My_LogLoss_Activity.ipynb) I implement the log-loss (cross-entropy) function from scratch in NumPy, using the *hours studied → pass/fail* example. I then use it to train a logistic regression model with gradient descent. I check each part against scikit-learn and a numerical gradient estimate.
+In [`PairProgrammingReport.ipynb`](PairProgrammingReport.ipynb) I implement the log-loss (cross-entropy) function from scratch in NumPy, using the *hours studied → pass/fail* example. I then use it to train a logistic regression model with gradient descent. I check each part against scikit-learn and a numerical gradient estimate.
 
 | Result | Value |
 | --- | --- |
@@ -47,8 +47,8 @@ pip install -r requirements.txt
 
 ### 4. Open the notebook
 
-- **VS Code:** open `My_LogLoss_Activity.ipynb`, click *Select Kernel* (top right), and choose the `.venv` environment.
-- **Jupyter in the browser:** install it with `pip install notebook`, then run `jupyter notebook My_LogLoss_Activity.ipynb`.
+- **VS Code:** open `PairProgrammingReport.ipynb`, click *Select Kernel* (top right), and choose the `.venv` environment.
+- **Jupyter in the browser:** install it with `pip install notebook`, then run `jupyter notebook PairProgrammingReport.ipynb`.
 
 Run all cells from top to bottom (*Run All*). Every check should print ✅.
 
@@ -56,9 +56,9 @@ Run all cells from top to bottom (*Run All*). Every check should print ✅.
 
 | File | Description |
 | --- | --- |
-| `My_LogLoss_Activity.ipynb` | My implementation, results, discussion, and talking points |
+| `PairProgrammingReport.ipynb` | My implementation, results, discussion, and talking points |
 | `requirements.txt` | Pinned package versions for `pip install` |
 
 ## Author
 
-Nnamdi Ikengah
+Group 4
